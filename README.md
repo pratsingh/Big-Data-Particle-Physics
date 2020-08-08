@@ -13,5 +13,6 @@ This first part has us explore and visualize LHC data (contains 2 parts) and sta
 Tools used: Python, Pandas, Matplotlib, NumPy, SciPy, pickle, seaborn. <br>
 The notebook and code can be viewed by clicking [here](https://nbviewer.jupyter.org/github/pratsingh/Big-Data-Particle-Physics/blob/master/notebooks/Lab8.ipynb).
 <br>
+
 The second second part utilizes statistical analysis to differntiate between "good" data and the outliers/noisy data. The dataset was quite big and multidimensional; it had over 26 million rows and 14 features. We performed dimensionality reduction, researched features, and limited the significance of noisy events. The end result was not perfect due to the nature of the data and compute power/time available but it proved to be a valuable lesson in how to work with big and complex data. 
 
